@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1>Welcome, honored guest! My name is Lucas, but call me Lessa 👋</h1>
+<h1>Wellcome, honored guest! My name is Lucas, but call me Lessa 👋</h1>
 
 <h3>
 At the moment, I'm studying programming languages and I aim to become a Front-end/Back-end Developer.
 </h3>
 
 <h3>
-In my free time, I play Soulslikes or whatever I'm interested in.
+In my free time, I play Soulslikes or whatever catches my interest.
 </h3>
 
 <h3>
