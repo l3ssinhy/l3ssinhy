@@ -13,11 +13,7 @@ In my free time, I play Soulslikes or whatever catches my interest.
 <br>
 
 <a href="https://br.pinterest.com/pin/140667188359691519/">
-  <img
-    src="https://br.pinterest.com/pin/140667188359691519/"
-    width="500"
-    alt="Soulslike GIF"
-  />
+  <img src="https://i.pinimg.com/originals/a7/e9/6f/a7e96f8e1a8ef464ee3422c351bb547f.gif" width="500" alt="Rice Shower GIF" />
 </a>
 
 <br><br>
