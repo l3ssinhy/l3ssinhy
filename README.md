@@ -12,8 +12,8 @@ In my free time, I play Soulslikes or whatever catches my interest.
 
 <br>
 
-<a href="https://br.pinterest.com/pin/140667188359691519/">
-  <img src="https://i.pinimg.com/originals/a7/e9/6f/a7e96f8e1a8ef464ee3422c351bb547f.gif" width="500" alt="Rice Shower GIF" />
+<a href="https://tenor.com/pt-PT/view/rice-shower-uma-musume-cutie-silly-fukkireta-gif-11537032133070556946">
+  <img src="https://media1.tenor.com/m/oBvFmWXwDxIAAAAd/rice-shower-uma-musume.gif" width="500" alt="Rice Shower GIF" />
 </a>
 
 <br><br>
