@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Wellcome, honored guest! My name is Lucas, but call me Lessa 👋</h1>
+<h1>Wellcome, honored guest! My name is Lucas, but call me LesLes 👋</h1>
 
 <h3>
 At the moment, I'm studying programming languages and I aim to become a Front-end/Back-end Developer.
