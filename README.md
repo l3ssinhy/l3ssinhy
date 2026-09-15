@@ -12,9 +12,7 @@ In my free time, I play Soulslikes or whatever catches my interest.
 
 <br>
 
-<a href="https://tenor.com/pt-PT/view/rice-shower-uma-musume-cutie-silly-fukkireta-gif-11537032133070556946">
-  <img src="https://media1.tenor.com/m/oBvFmWXwDxIAAAAd/rice-shower-uma-musume.gif" width="500" alt="Rice Shower GIF" />
-</a>
+https://github.com/user-attachments/assets/76809853-720b-4f8b-8853-902f8185ac4a
 
 <br><br>
 
