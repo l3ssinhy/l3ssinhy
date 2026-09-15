@@ -10,13 +10,6 @@ At the moment, I'm studying programming languages and I aim to become a Front-en
 In my free time, I play Soulslikes or whatever catches my interest.
 </h3>
 
-<h3>
-Contact -
-<a href="mailto:lucas.050409@gmail.com">
-lucas.050409@gmail.com
-</a>
-</h3>
-
 <br>
 
 <a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-evFIIWo4ppUw2CqZoV">
