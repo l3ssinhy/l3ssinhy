@@ -12,7 +12,7 @@ In my free time, I play Soulslikes or whatever catches my interest.
 
 <br>
 
-https://github.com/user-attachments/assets/76809853-720b-4f8b-8853-902f8185ac4a
+https://github.com/user-attachments/assets/c0379f44-2edc-4a25-966e-5eafcec7c4dd
 
 <br><br>
 
