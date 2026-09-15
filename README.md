@@ -12,9 +12,9 @@ In my free time, I play Soulslikes or whatever catches my interest.
 
 <br>
 
-<a href="https://giphy.com/gifs/xbox-game-xbox-series-x-s-evFIIWo4ppUw2CqZoV">
+<a href="https://br.pinterest.com/pin/140667188359691519/">
   <img
-    src="https://media.giphy.com/media/evFIIWo4ppUw2CqZoV/giphy.gif"
+    src="https://br.pinterest.com/pin/140667188359691519/"
     width="500"
     alt="Soulslike GIF"
   />
