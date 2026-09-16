@@ -12,9 +12,7 @@ In my free time, I play Soulslikes or whatever catches my interest.
 
 <br>
 
-<div align="center">
-  <img src="tenor.com/pt-PT/view/uma-musume-rice-shower-gif-20985771" width="300px" alt="Rice Shower Heart">
-</div>
+<img width="640" height="358" alt="uma-musume-rice-shower" src="https://github.com/user-attachments/assets/7a2dad83-c434-4ae8-ba38-fb343a476767" />
 
 <br><br>
 
