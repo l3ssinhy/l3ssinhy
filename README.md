@@ -12,7 +12,9 @@ In my free time, I play Soulslikes or whatever catches my interest.
 
 <br>
 
-https://github.com/user-attachments/assets/c0379f44-2edc-4a25-966e-5eafcec7c4dd
+<div align="center">
+  <img src="https://tenor.com/pt-PT/view/rice-shower-gif-12273486106463013586.gif" width="300px" alt="Rice Shower Heart">
+</div>
 
 <br><br>
 
