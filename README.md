@@ -23,7 +23,7 @@
 
   <br />
 
-  <img width="600" alt="bleach-nell" src="https://media1.tenor.com/m/aP4d7bsh0ggAAAAd/bbs-bleach.gif" />
+  <img width="750" alt="bleach-nell" src="https://media1.tenor.com/m/aP4d7bsh0ggAAAAd/bbs-bleach.gif" />
 
 </div>
 
