@@ -12,7 +12,7 @@ In my free time, I play Soulslikes or whatever catches my interest.
 
 <br>
 
-<img width="640" height="358" alt="uma-musume-rice-shower" src="https://github.com/user-attachments/assets/7a2dad83-c434-4ae8-ba38-fb343a476767" />
+<img width="640" height="358" alt="bleach-nell" src="https://tenor.com/pt-PT/view/bbs-bleach-nel-nelliel-nelliel-tu-gif-7565517330913022472" />
 
 <br><br>
 
