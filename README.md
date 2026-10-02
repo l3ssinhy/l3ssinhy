@@ -12,7 +12,7 @@ In my free time, I play Soulslikes or whatever catches my interest.
 
 <br>
 
-<img width="640" height="358" alt="bleach-nell" src="https://media.tenor.com/bbs-bleach-nel-nelliel-nelliel-tu-gif-7565517330913022472" />
+<img width="640" height="358" alt="bleach-nell" src="https://media1.tenor.com/m/aP4d7bsh0ggAAAAd/bbs-bleach.gif" />
 
 <br><br>
 
