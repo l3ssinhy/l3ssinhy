@@ -2,7 +2,7 @@
 
   <h1>Hi!</h1>
   
-  <p>I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro</p>
+  <h3>I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro</h3>
 
   <p><strong>
     If you give me wings,<br />
