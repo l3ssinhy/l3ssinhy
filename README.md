@@ -1,9 +1,7 @@
 <div align="center">
 
   <h1>Hi!</h1>
-
-  <p>My name is Lucas but call me by my username</p>
-
+  
   <p>I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro</p>
 
   <p><strong>
