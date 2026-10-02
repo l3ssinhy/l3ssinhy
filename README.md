@@ -2,7 +2,7 @@
 
   <h1>
     Hi!&nbsp;&nbsp;
-    <img src="https://i.pinimg.com/736x/f7/c9/4e/f7c94ed10cc6fa38dc8c20e711c699d7.jpg" height="40" alt="icon" style="margin-left: 10px;" />
+    <img src="https://i.pinimg.com/736x/f7/c9/4e/f7c94ed10cc6fa38dc8c20e711c699d7.jpg" height="50" alt="icon" style="margin-left: 10px;" />
   </h1>
   
   <h3>
