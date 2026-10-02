@@ -6,10 +6,6 @@
 
   <p>I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro</p>
 
-  <h2>Curiosities</h2>
-
-  <p>I like reading Mangá and playing videogames</p>
-
   <p><strong>
     If you give me wings,<br />
     I will fly for you,<br />
