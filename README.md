@@ -1,24 +1,33 @@
-<div align="left">
+<div align="center">
 
-<h1>Wellcome, honored guest! My name is Lucas, but call me LesLes 👋</h1>
+  <h1>Hi!</h1>
 
-<p>
-At the moment, I'm studying programming languages and I aim to become a Front-end/Back-end Developer.
-</p>
+  <h3>My name is Lucas but call me by my username</h3>
 
-<p>
-In my free time, I play Soulslikes or whatever catches my interest.
-</p>
+  <h3>I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro</h3>
 
-<br>
+  <h2>Curiosities</h2>
 
-<div align ="center">
-  
-<img width="640" height="358" alt="bleach-nell" src="https://media1.tenor.com/m/aP4d7bsh0ggAAAAd/bbs-bleach.gif" />
+  <h3>I like reading Mangá and playing videogames</h3>
+
+  <h3><strong>
+    If you give me wings,<br />
+    I will fly for you,<br />
+    Even if all this land<br />
+    Sinks into the water.<br />
+    If you give me a sword,<br />
+    I will fight for you,<br />
+    Even if all this sky<br />
+    Pierces you with its light
+  </strong></h3>
+
+  <br />
+
+  <img width="600" alt="bleach-nell" src="https://media1.tenor.com/m/aP4d7bsh0ggAAAAd/bbs-bleach.gif" />
 
 </div>
 
-<br><br>
+<hr />
 
 <h1>Languages</h1>
 <p align="left">
@@ -28,11 +37,11 @@ In my free time, I play Soulslikes or whatever catches my interest.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
+<hr />
+
 <h1>Tools & Frameworks</h1>
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-
-</div>
