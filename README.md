@@ -1,8 +1,14 @@
 <div align="center">
 
-  <h1>Hi!</h1>
+  <h1>
+    Hi! 
+    <img src="https://i.pinimg.com/736x/f7/c9/4e/f7c94ed10cc6fa38dc8c20e711c699d7.jpg" height="40" alt="icon" />
+  </h1>
   
-  <h3>I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro</h3>
+  <h3>
+    I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro 
+    <img src="https://i.pinimg.com/736x/b5/ca/69/b5ca69aa20f7a7f57a8008501561527b.jpg" height="28" alt="icon" />
+  </h3>
 
   <p><strong>
     If you give me wings,<br />
