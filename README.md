@@ -2,15 +2,15 @@
 
   <h1>Hi!</h1>
 
-  <h3>My name is Lucas but call me by my username</h3>
+  <p>My name is Lucas but call me by my username</p>
 
-  <h3>I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro</h3>
+  <p>I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro</p>
 
   <h2>Curiosities</h2>
 
-  <h3>I like reading Mangá and playing videogames</h3>
+  <p>I like reading Mangá and playing videogames</p>
 
-  <h3><strong>
+  <p><strong>
     If you give me wings,<br />
     I will fly for you,<br />
     Even if all this land<br />
@@ -19,7 +19,7 @@
     I will fight for you,<br />
     Even if all this sky<br />
     Pierces you with its light
-  </strong></h3>
+  </strong></p>
 
   <br />
 
