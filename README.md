@@ -6,7 +6,7 @@
   </h1>
   
   <h3>
-    I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro 
+    I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro <br />
     <img src="https://i.pinimg.com/736x/b5/ca/69/b5ca69aa20f7a7f57a8008501561527b.jpg" height="28" alt="icon" />
   </h3>
 
