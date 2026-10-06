@@ -29,10 +29,7 @@
 
 <hr />
 
-<h2>
-  Languages&nbsp;
-  <img src="https://i.pinimg.com/736x/cd/6e/47/cd6e472581bae5ca140641d4212b6f95.jpg" height="35" alt="icon" style="margin-left: 5px;" />
-</h2>
+<h2>Languages <img src="https://i.pinimg.com/736x/cd/6e/47/cd6e472581bae5ca140641d4212b6f95.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" /></h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -42,10 +39,7 @@
 
 <hr />
 
-<h2>
-  Tools & Frameworks&nbsp;
-  <img src="https://i.pinimg.com/736x/db/57/cd/db57cd3ff17e97e4cde272bfd22708a2.jpg" height="35" alt="icon" style="margin-left: 5px;" />
-</h2>
+<h2>Tools & Frameworks <img src="https://i.pinimg.com/736x/db/57/cd/db57cd3ff17e97e4cde272bfd22708a2.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" /></h2>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
