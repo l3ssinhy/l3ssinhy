@@ -29,7 +29,10 @@
 
 <hr />
 
-<h2>Languages</h2>
+<h2>
+  Languages&nbsp;
+  <img src="URL_DA_SEGUNDA_IMAGEM" height="45" alt="icon" style="margin-left: 5px;" />
+</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -39,7 +42,10 @@
 
 <hr />
 
-<h2>Tools & Frameworks</h2>
+<h2>
+  Tools & Frameworks&nbsp;
+  <img src="URL_DA_PRIMEIRA_IMAGEM" height="45" alt="icon" style="margin-left: 5px;" />
+</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
