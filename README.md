@@ -31,7 +31,7 @@
 
 <h2>
   Languages&nbsp;
-  <img src="URL_DA_SEGUNDA_IMAGEM" height="45" alt="icon" style="margin-left: 5px;" />
+  <img src="https://br.pinterest.com/pin/29906785022222637/" height="45" alt="icon" style="margin-left: 5px;" />
 </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -44,7 +44,7 @@
 
 <h2>
   Tools & Frameworks&nbsp;
-  <img src="URL_DA_PRIMEIRA_IMAGEM" height="45" alt="icon" style="margin-left: 5px;" />
+  <img src="https://br.pinterest.com/pin/38421403068348559/" height="45" alt="icon" style="margin-left: 5px;" />
 </h2>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
