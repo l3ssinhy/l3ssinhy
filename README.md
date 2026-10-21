@@ -1,14 +1,14 @@
 <div align="center">
 
-  <h1>
+  <h1><strong>
     Hi!&nbsp;
     <img src="https://i.pinimg.com/736x/fe/65/43/fe654325ac8a16611f396fcd64b19b1d.jpg" height="45" alt="icon" style="margin-left: 5px;" />
-  </h1>
+  </strong></h1>
   
-  <h3>
+  <h3><strong>
     I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro <br />
     <img src="https://i.pinimg.com/736x/53/ac/3b/53ac3bf9efbca9f0f7ad405d090cf262.jpg" height="35" alt="icon" />
-  </h3>
+  </strong></h3>
 
   <h3><strong>
     深淵の底で、私は待っている。
