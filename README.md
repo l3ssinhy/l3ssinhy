@@ -10,9 +10,9 @@
     <img src="https://i.pinimg.com/736x/53/ac/3b/53ac3bf9efbca9f0f7ad405d090cf262.jpg" height="35" alt="icon" />
   </h3>
 
-  <p><strong>
+  <h3><strong>
     深淵の底で、私は待っている。
-  </strong></p>
+  </strong></h3>
 
   <br />
 
