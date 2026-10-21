@@ -2,34 +2,27 @@
 
   <h1>
     Hi!&nbsp;
-    <img src="https://i.pinimg.com/736x/f7/c9/4e/f7c94ed10cc6fa38dc8c20e711c699d7.jpg" height="45" alt="icon" style="margin-left: 5px;" />
+    <img src="https://i.pinimg.com/736x/fe/65/43/fe654325ac8a16611f396fcd64b19b1d.jpg" height="45" alt="icon" style="margin-left: 5px;" />
   </h1>
   
   <h3>
     I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro <br />
-    <img src="https://i.pinimg.com/736x/b5/ca/69/b5ca69aa20f7a7f57a8008501561527b.jpg" height="35" alt="icon" />
+    <img src="https://i.pinimg.com/736x/53/ac/3b/53ac3bf9efbca9f0f7ad405d090cf262.jpg" height="35" alt="icon" />
   </h3>
 
   <p><strong>
-    If you give me wings,<br />
-    I will fly for you,<br />
-    Even if all this land<br />
-    Sinks into the water.<br />
-    If you give me a sword,<br />
-    I will fight for you,<br />
-    Even if all this sky<br />
-    Pierces you with its light
+    深淵の底で、私は待っている。
   </strong></p>
 
   <br />
 
-  <img width="750" alt="bleach-nell" src="https://media1.tenor.com/m/aP4d7bsh0ggAAAAd/bbs-bleach.gif" />
+  <img width="750" alt="made-in-abyss-reg" src="https://media1.tenor.com/m/PS8lhRDq1KoAAAAd/reg-made-in-abyss.gif" />
 
 </div>
 
 <hr />
 
-<h2>Languages <img src="https://i.pinimg.com/736x/cd/6e/47/cd6e472581bae5ca140641d4212b6f95.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" /></h2>
+<h2>Languages <img src="https://i.pinimg.com/736x/60/3d/21/603d219fc707a585595d8e62dbfd6636.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" /></h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -39,7 +32,7 @@
 
 <hr />
 
-<h2>Tools & Frameworks <img src="https://i.pinimg.com/736x/db/57/cd/db57cd3ff17e97e4cde272bfd22708a2.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" /></h2>
+<h2>Tools & Frameworks <img src="https://i.pinimg.com/1200x/a3/ba/01/a3ba01f75cc4cc146c9c3a766189bc2c.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" /></h2>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
