@@ -32,7 +32,7 @@
 
 <hr />
 
-<h2>Tools & Frameworks <img src="https://i.pinimg.com/1200x/90/d1/34/90d13457d82382551083b724f3e9f34e.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" /></h2>
+<h2>Tools & Frameworks <img src="https://i.pinimg.com/1200x/d8/92/75/d892756ed636c7438c5aad24dc6e75af.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" /></h2>
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
