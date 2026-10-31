@@ -12,6 +12,7 @@
 
   <h3><strong>
     俺は神を超える男だ！
+    <img src="https://i.pinimg.com/736x/69/cc/4e/69cc4e97ed03561c53a56ee963bb7ccf.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" />
   </strong></h3>
 
   <br />
@@ -22,7 +23,7 @@
 
 <hr />
 
-<h2>Languages <img src="https://i.pinimg.com/736x/69/cc/4e/69cc4e97ed03561c53a56ee963bb7ccf.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" /></h2>
+<h2>Languages <img src="https://i.pinimg.com/736x/f0/ce/cc/f0cecc1c4c8360d17fdc2093089a8d25.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" /></h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
