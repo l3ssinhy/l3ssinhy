@@ -12,7 +12,6 @@
 
   <h3><strong>
     俺は神を超える男だ！
-    <img src="https://i.pinimg.com/736x/69/cc/4e/69cc4e97ed03561c53a56ee963bb7ccf.jpg" height="35" alt="icon" style="vertical-align: middle; margin-left: 3px;" />
   </strong></h3>
 
   <br />
