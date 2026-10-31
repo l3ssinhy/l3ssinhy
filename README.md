@@ -2,9 +2,9 @@
 
   <h1><strong>
     Hi!&nbsp;
-    <img src="https://media.tenor.com/S_VaHc5SWW4AAAAM/soul-eater-professor-stein.gif" height="45" alt="icon" style="margin-left: 5px;" />
+    <img src="https://i.pinimg.com/736x/69/cc/4e/69cc4e97ed03561c53a56ee963bb7ccf.jpg" height="45" alt="icon" style="margin-left: 5px;" />
   </strong></h1>
-  https://media.tenor.com/S_VaHc5SWW4AAAAM/soul-eater-professor-stein.gif
+  
   <h3><strong>
     I'm currently studying Systems Analysis and Development in SENAI Suíço-Brasileiro <br />
     <img src="https://i.pinimg.com/1200x/f0/ee/ec/f0eeec896cb1c24be5cb89d7c109afb3.jpg" height="35" alt="icon" />
