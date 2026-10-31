@@ -16,7 +16,7 @@
 
   <br />
 
-  <img width="750" alt="soul-eater-black-star" src="https://media1.tenor.com/m/tI7Fgb7LGIQAAAAC/black-star-soul-eater.gif" />
+  <img width="650" alt="soul-eater-black-star" src="https://media1.tenor.com/m/tI7Fgb7LGIQAAAAC/black-star-soul-eater.gif" />
 
 </div>
 
